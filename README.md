@@ -1,0 +1,2 @@
+# premium-idp-backstage-001-backstage-portal-configuration
+Your Backstage portal is powerful, but without a clear configuration structure, teams waste hours hunting for deployment rules, service ownership, and infrastructure policies. The Backstage Portal Configuration Template eliminates that chaos by giving you a pre-built, production-ready Notion system that mirrors your actual portal setup.  This templ
